@@ -1,7 +1,7 @@
 # Machine-Learning-group-Project
 
 
-I have worked with oter two Machine Learning & Deep learning Project.
+I have worked with oter two Machine Learning & Deep learning Projects.
 Here are the Links:
 #####
 {1} Machine Learning with Loan Data From Lending Clubs (Group Project on CS 5232)
